@@ -23,3 +23,5 @@ The goal of this assignment is to build a readable, well-organized, and user-fri
 ---
 ## 📸 Screenshots
 Screenshots of the webpage layout can be added here to visually demonstrate the UI design and structure.
+### Desktop View
+![HTML Layout Preview](screenshot.png)
